@@ -25,11 +25,13 @@ export const PageLinks = [
     text: "tours",
   },
 ];
+
 export const SocialLinks = [
   { id: 1, href: "https://www.twitter.com", icon: "fab fa-facebook" },
   { id: 2, href: "https://www.instagram.com", icon: "fab fa-instagram" },
   { id: 2, href: "https://www.squarespace.com", icon: "fab fa-squarespace" },
 ];
+
 export const ServicesData = [
   {
     id: 1,
@@ -50,6 +52,7 @@ export const ServicesData = [
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.",
   },
 ];
+
 export const ToursData = [
   {
     id: 1,
